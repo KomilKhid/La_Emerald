@@ -9,7 +9,7 @@ const Header = () => (
     <div className="app__wrapper_info">
       <SubHeading title="Experience the Emerald Essence" />
       <h1 className="app__header-h1">Your Gateway to Gourmet Excellence</h1>
-      <button type="button" className="custom__button">Explore Menu</button>
+      <button type="button" className="custom__button">Explore Whole Menu</button>
     </div>
 
     <div className="app__wrapper_img">
